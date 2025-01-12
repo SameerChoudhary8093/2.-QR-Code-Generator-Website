@@ -1,1 +1,1 @@
-# 2.-QR-Code-Generator-Website
+QR-Code-Generator-Website
